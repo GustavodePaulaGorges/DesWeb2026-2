@@ -1,0 +1,6 @@
+- [x] A tela /quiz/create já existe.
+- [x] Ela pode ser acessada diretamente pela URL.
+- [x] Foi adicionado o botão “Criar Quiz” na Navbar.
+- [x] O botão só aparece para usuário autenticado.
+- [x] O botão leva para /quiz/create.
+- [x] A tela também poderá ser alcançada posteriormente pela Sidebar.
